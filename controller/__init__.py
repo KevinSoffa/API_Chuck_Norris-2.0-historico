@@ -1,0 +1,2 @@
+from .historico_controller_jokes import historico_controller_jokes
+from .router import router

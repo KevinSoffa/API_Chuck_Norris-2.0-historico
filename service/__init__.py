@@ -1,0 +1,1 @@
+from .historico_service_jokes import historico_service_jokes
